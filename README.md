@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner BC - Arquiteto de Eficiência" />
-
 # Hello, I'm Bruno 👋
 
 **IT Student | Backend, Automação & Governança de TI**
@@ -37,8 +35,7 @@ I am currently developing solutions for **Analisegroup Contabilidade**, combinin
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white" />
-
-<br><br>
+<br>
 
 **◆ Infra & AI**
 <br>
