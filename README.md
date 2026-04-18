@@ -1,5 +1,12 @@
+
 <div align="center">
 
+  <img src="assets/banner.png" width="100%" alt="Banner Minimalista BC">
+
+</div>
+
+<div align="center">
+  
 # Hello, I'm Bruno 👋
 
 **IT Student | Backend, Automação & Governança de TI**
