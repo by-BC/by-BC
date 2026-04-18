@@ -44,7 +44,6 @@ I am currently developing solutions for **Analisegroup Contabilidade**, combinin
 
 </div>
 
-<br>
 
 ### 🟪 Contacts
 <hr>
