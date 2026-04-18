@@ -6,10 +6,17 @@ Foco em transformar processos complexos e dados contábeis em fluxos automatizad
 
 ---
 
+### 📊 GitHub Stats
+![Estatísticas do BC](https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=transparent)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=transparent)
+
+---
+
 ### 🛠️ Foco Técnico:
-- **Backend:** Python (Pandas, Pydantic, FastAPI).
-- **IA & Automação:** Orquestração de Agentes, Integração de LLMs (CrewAI, LangChain) e automação de processos repetitivos.
-- **Eficiência:** Docker e fluxos de automação para sistemas de gestão.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI-Agents-green?style=for-the-badge&logo=openai)
 
 ### 📈 Projetos em Desenvolvimento:
 - **Unificador de Dados Bancários:** Script em Python que padroniza e consolida extratos de múltiplos bancos em um fluxo único.
