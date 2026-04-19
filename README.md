@@ -1,11 +1,5 @@
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/by-BC/unificador-dados-contabeis/main/assets/banner.png" width="100%">
-
-</div>
-
-<div align="center">
   
 # Hello, I'm Bruno 👋
 
@@ -59,5 +53,11 @@ I am currently developing solutions for **Analisegroup Contabilidade**, combinin
 
 <a href="https://www.linkedin.com/in/brnocandido/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:brunocandido16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/by-BC/unificador-dados-contabeis/main/assets/banner.png" width="100%">
 
 </div>
