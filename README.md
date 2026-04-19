@@ -23,14 +23,17 @@
 </div>
 
 <br>
+<br>
 
 <h3 align="left">🚀 Destaque Recente</h3>
 
+<div align="left">
 #### 💼 BPO Intelligence & Auditoria Digital (Workspace Analisegroup)
 *Ferramenta de cruzamento de dados bancários (OFX) e conciliação contábil com ERPs.*
 - **Desafio:** Eliminar o trabalho manual de BPO através da unificação de extratos de múltiplos bancos.
 - **Solução:** Desenvolvimento de um "Motor de Match Blindado" em Python com janela de tolerância temporal e detecção autônoma de transferências internas.
 - **Resultado:** Automação do tratamento de dados com exportação direta para layout contábil (Domínio Sistemas), acompanhado de um dashboard analítico reativo de fluxo de caixa.
+</div>
 
 <br>
 <h3 align="left">🛠️ Linguagens e Estatísticas</h3>
