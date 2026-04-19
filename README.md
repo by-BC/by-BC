@@ -3,7 +3,7 @@
   
 # Hello, I'm Bruno 👋
 
-**IT Student | Backend, Automação & Governança de TI**
+**Backend • Automação • Data Pipelines • IT Governance**
 
 *Building efficient workflows*
 
