@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="assets/banner.png" width="100%" alt="Banner Minimalista BC">
+  <img src="https://raw.githubusercontent.com/by-BC/unificador-dados-contabeis/main/assets/banner.png" width="100%">
 
 </div>
 
