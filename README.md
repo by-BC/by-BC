@@ -35,16 +35,6 @@
 
 <br>
 
-<br>
-<h3 align="left">🛠️ Linguagens e Estatísticas</h3>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-candido&layout=compact&bg_color=0A0A0A&title_color=C5A059&text_color=888888&hide_border=true&card_width=380" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bruno-candido&show_icons=true&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true&count_private=true&card_width=380" />
-</div>
-
-<br>
-
 <h3 align="left">💻 Projetos em Destaque</h3>
 
 <div align="center">
