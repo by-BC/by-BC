@@ -2,44 +2,51 @@
 
   <h1 style="color: #C5A059; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 5px;">Bruno Candido</h1>
   <p style="color: #888; font-size: 14px; letter-spacing: 2px;">
-    INFORMATION TECHNOLOGY | SYSTEM AUDITING | DATA ANALYSIS
+    ANALISTA DE TI | DESENVOLVIMENTO DE SISTEMAS | AUTOMAÇÃO RPA
   </p>
 
   <br>
 
   <p align="center" style="max-width: 600px; margin: 0 auto;">
-    Graduando em Tecnologia da Informação com foco profundo em <strong>Auditoria de Sistemas, Controles Lógicos e Governança de Dados</strong>. Desenvolvo ferramentas analíticas de alto desempenho para transformar dados brutos em inteligência executiva.
+    Analista de TI na Analisegroup e graduando em Análise e Desenvolvimento de Sistemas (Anhanguera - UNEAL). Atuo com foco em eficiência, clareza técnica e desenvolvimento de sistemas corporativos, com ênfase em automação de processos, integração de banco de dados e análise de dados.
   </p>
 
-### 🛠️ Stack Tecnológico & Especialidades
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Data_Cleaning-000000?style=for-the-badge&logo=databricks&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/System_Auditing-000000?style=for-the-badge&logo=linux&logoColor=C5A059">
 </div>
 
 <br>
-<br>
 
-### 🚀 Destaque Recente
-
-#### 💼 BPO Intelligence & Auditoria Digital (Workspace Analisegroup)
-*Ferramenta de cruzamento de dados bancários (OFX) e conciliação contábil com ERPs.*
-- **Desafio:** Eliminar o trabalho manual de BPO através da unificação de extratos de múltiplos bancos.
-- **Solução:** Desenvolvimento de um "Motor de Match Blindado" em Python com janela de tolerância temporal e detecção autônoma de transferências internas.
-- **Resultado:** Automação do tratamento de dados com exportação direta para layout contábil (Domínio Sistemas), acompanhado de um dashboard analítico reativo de fluxo de caixa.
-
-<br>
-
-<h3 align="left">💻 Projetos em Destaque</h3>
+### 🛠️ Stack Tecnológico
 
 <div align="center">
-  <a href="https://github.com/by-BC/unificador-dados-contabeis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=unificador-dados-contabeis&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C5A059">
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=C5A059">
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=C5A059">
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=C5A059">
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=C5A059">
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=C5A059">
+</div>
+
+<br>
+
+### 🚀 Atuação e Projetos Recentes
+
+#### 💼 Automação RPA & Integrações Corporativas (Analisegroup)
+*Desenvolvimento de soluções internas para otimização de rotinas financeiras e operacionais.*
+- **NFS-e Automática:** Criação de módulo de emissão em lote via Playwright (`auto-nfse`), com gestão de estado em banco de dados e interface Streamlit.
+- **Portal Central-CISS:** Refatoração de frontend e integração de serviços automatizados (Feegow).
+- **BPO Intelligence:** Ferramenta em Python para cruzamento de dados bancários (OFX), conciliação com ERPs e exportação para layout contábil (Domínio Sistemas).
+
+#### 💻 Taiga OS
+*Desenvolvimento de interface gráfica e componentes lógicos.*
+- Sistema focado em componentes de UI e lógica de interface minimalista desenvolvidos em Python.
+
+<br>
+
+<h3 align="left">💻 Repositórios em Destaque</h3>
+
+<div align="center">
+  <a href="https://github.com/by-BC/auto-nfse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=auto-nfse&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
   </a>
   <a href="https://github.com/by-BC/taiga-os">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=taiga-os&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
