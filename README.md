@@ -1,63 +1,47 @@
-<div align="center">
+# Bruno Candido
 
-  <h1 style="color: #C5A059; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 5px;">Bruno Candido</h1>
-  <p style="color: #888; font-size: 14px; letter-spacing: 2px;">
-    ANALISTA DE TI | DESENVOLVIMENTO DE SISTEMAS | AUTOMAÇÃO RPA
-  </p>
-
-  <br>
-
-  <p align="center" style="max-width: 600px; margin: 0 auto;">
-    Analista de TI na Analisegroup e graduando em Análise e Desenvolvimento de Sistemas (Anhanguera - UNEAL). Atuo com foco em eficiência, clareza técnica e desenvolvimento de sistemas corporativos, com ênfase em automação de processos, integração de banco de dados e análise de dados.
-  </p>
-
-</div>
-
-<br>
-
-### 🛠️ Stack Tecnológico
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=C5A059">
-</div>
-
-<br>
-
-### 🚀 Atuação e Projetos Recentes
-
-#### 💼 Automação RPA & Integrações Corporativas (Analisegroup)
-*Desenvolvimento de soluções internas para otimização de rotinas financeiras e operacionais.*
-- **NFS-e Automática:** Criação de módulo de emissão em lote via Playwright (`auto-nfse`), com gestão de estado em banco de dados e interface Streamlit.
-- **Portal Central-CISS:** Refatoração de frontend e integração de serviços automatizados (Feegow).
-- **BPO Intelligence:** Ferramenta em Python para cruzamento de dados bancários (OFX), conciliação com ERPs e exportação para layout contábil (Domínio Sistemas).
-
-#### 💻 Taiga OS
-*Desenvolvimento de interface gráfica e componentes lógicos.*
-- Sistema focado em componentes de UI e lógica de interface minimalista desenvolvidos em Python.
-
-<br>
-
-<h3 align="left">💻 Repositórios em Destaque</h3>
-
-<div align="center">
-  <a href="https://github.com/by-BC/auto-nfse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=auto-nfse&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
-  </a>
-  <a href="https://github.com/by-BC/taiga-os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=taiga-os&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
-  </a>
-</div>
-
-<br>
+**Analista de TI | Desenvolvimento de Sistemas | Automação**  
+📍 Arapiraca, AL — Brasil
 
 ---
 
-<div align="center">
-  <a href="mailto:brunocandido16@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=C5A059"></a>
-  <a href="https://www.linkedin.com/in/brnocandido/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C5A059"></a>
+### 👨‍💻 Sobre
+Analista de TI na Analisegroup e graduando em Análise e Desenvolvimento de Sistemas (Anhanguera - UNEAL). Atuo com foco em eficiência e clareza técnica, desenvolvendo soluções corporativas para automação de processos operacionais, integrações sistêmicas e gestão de banco de dados.
+
+### ⚙️ Stack Tecnológico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+### 📂 Atuação e Projetos
+
+| Projeto / Foco | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| **Auto-NFSe** | Motor RPA para emissão automática em lote de notas fiscais eletrônicas, com interface de controle e histórico em banco local. | `Python`, `Playwright`, `SQLite` |
+| **BPO Intelligence** | Script de cruzamento de dados bancários (OFX) e conciliação para exportação direta ao ERP Domínio Sistemas. | `Python`, `Pandas` |
+| **Central-CISS** | Refatoração de frontend do portal interno e integração de fluxos com a API do Feegow. | `Frontend`, `APIs` |
+| **Taiga OS** | Desenvolvimento focado na lógica de interface e construção de componentes visuais minimalistas. | `Python`, `UI Components` |
+
+### 📊 Estatísticas GitHub
+
+<div align="left">
+  <a href="https://github.com/by-BC">
+    <img src="https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=transparent&hide_border=true&title_color=2EAD33&icon_color=2EAD33&text_color=888888" height="150" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/by-BC">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=transparent&hide_border=true&title_color=2EAD33&text_color=888888" height="150" alt="Linguagens mais utilizadas" />
+  </a>
 </div>
+
+---
+
+### 📫 Contato
+
+<a href="https://www.linkedin.com/in/brnocandido/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:brunocandido16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
