@@ -1,74 +1,128 @@
-<!-- ===================================================== -->
-<!--                 SYSTEM BOOT                           -->
-<!-- ===================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827&section=header"/>
-
 <div align="center">
 
-# `bruno@by-bc:~$ whoami`
+# Bruno Candido
 
-```bash
-Backend Developer
-AI Automation Architect
-Systems Builder
-```
+`backend developer` • `automation` • `ai systems`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+operational+problems+into+software;Python+%7C+Automation+%7C+AI+%7C+Backend;Building+real+solutions+for+real+processes"/>
+Building software focused on real operational problems.
+
+<br>
+
+<a href="https://github.com/by-BC">
+  <img src="https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/brnocandido">
+  <img src="https://img.shields.io/badge/linkedin-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:brunocandido16@icloud.com">
+  <img src="https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# `~/about_me.py`
+## about
 
 ```python
-class BrunoCandido:
+class Bruno:
 
     def __init__(self):
 
-        self.name = "Bruno Candido"
+        self.role = "Backend Developer"
 
-        self.role = [
-            "Backend Developer",
-            "AI Automation Architect",
-            "Systems Builder"
-        ]
-
-        self.current_focus = [
+        self.focus = [
             "Python",
             "Automation",
             "Artificial Intelligence",
-            "Backend Engineering",
+            "APIs",
             "Data Processing"
         ]
 
-        self.learning = [
+        self.currently_learning = [
             "Software Architecture",
             "System Design",
-            "Scalable APIs"
+            "Scalable Systems"
         ]
 
-        self.background = {
-            "retail": [
-                "leadership",
-                "analytics",
-                "business vision"
-            ],
-
-            "technology": [
-                "automation",
-                "internal systems",
-                "AI solutions",
-                "process optimization"
-            ]
-        }
-
     def build(self):
-        return "Turning operational problems into software."
+        return "Turning ideas into software."
 
 
-me = BrunoCandido()
+me = Bruno()
+```
 
-print(me.build())
+---
+
+## stack
+
+```python
+stack = {
+
+    "languages": [
+        "Python",
+        "TypeScript",
+        "JavaScript"
+    ],
+
+    "backend": [
+        "FastAPI",
+        "Node.js"
+    ],
+
+    "frontend": [
+        "React",
+        "TailwindCSS"
+    ],
+
+    "database": [
+        "SQLite",
+        "Supabase"
+    ],
+
+    "automation": [
+        "Playwright",
+        "Pandas"
+    ]
+}
+```
+
+---
+
+## projects
+
+```python
+projects = [
+
+    "Onde Passa FC",
+    "Auto-NFSe",
+    "AI Audit Agent",
+    "Central-CISS",
+    "Taiga OS"
+]
+```
+
+---
+
+## stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+```bash
+> currently building
+
+AI automations
+backend systems
+internal tools
+real-world solutions
 ```
