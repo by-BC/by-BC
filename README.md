@@ -1,47 +1,93 @@
-# Bruno Candido
+<h1 align="center">Bruno Candido</h1>
 
-**Analista de TI | Desenvolvimento de Sistemas | Automação**  
-📍 Arapiraca, AL — Brasil
+<p align="center">
+  Desenvolvedor Backend • Automação de Processos • IA Aplicada • Dados
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brnocandido/">LinkedIn</a> •
+  <a href="mailto:brunocandido16@icloud.com">E-mail</a> •
+  <a href="https://github.com/by-BC">GitHub</a>
+</p>
 
 ---
 
-### 👨‍💻 Sobre
-Analista de TI na Analisegroup e graduando em Análise e Desenvolvimento de Sistemas (Anhanguera - UNEAL). Atuo com foco em eficiência e clareza técnica, desenvolvendo soluções corporativas para automação de processos operacionais, integrações sistêmicas e gestão de banco de dados.
+## Sobre mim
 
-### ⚙️ Stack Tecnológico
+Sou Analista de TI na Analisegroup e estudante de Análise e Desenvolvimento de Sistemas.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-</p>
+Atuo na construção de soluções que conectam tecnologia, automação, dados e eficiência operacional. Minha experiência começou no varejo, onde desenvolvi visão analítica, liderança e foco em performance. Hoje aplico essa bagagem na criação de sistemas, automações, integrações e ferramentas que simplificam processos reais.
 
-### 📂 Atuação e Projetos
+Tenho interesse especial por:
 
-| Projeto / Foco | Descrição | Stack Principal |
-| :--- | :--- | :--- |
-| **Auto-NFSe** | Motor RPA para emissão automática em lote de notas fiscais eletrônicas, com interface de controle e histórico em banco local. | `Python`, `Playwright`, `SQLite` |
-| **BPO Intelligence** | Script de cruzamento de dados bancários (OFX) e conciliação para exportação direta ao ERP Domínio Sistemas. | `Python`, `Pandas` |
-| **Central-CISS** | Refatoração de frontend do portal interno e integração de fluxos com a API do Feegow. | `Frontend`, `APIs` |
-| **Taiga OS** | Desenvolvimento focado na lógica de interface e construção de componentes visuais minimalistas. | `Python`, `UI Components` |
+- Desenvolvimento Backend
+- Automação com Python
+- Inteligência Artificial aplicada a negócios
+- Integrações com APIs
+- Análise e tratamento de dados
+- Sistemas internos e produtividade operacional
 
-### 📊 Estatísticas GitHub
+---
 
-<div align="left">
-  <a href="https://github.com/by-BC">
-    <img src="https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=transparent&hide_border=true&title_color=2EAD33&icon_color=2EAD33&text_color=888888" height="150" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/by-BC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=transparent&hide_border=true&title_color=2EAD33&text_color=888888" height="150" alt="Linguagens mais utilizadas" />
-  </a>
+## Stack principal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
+![Playwright](https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright)
+
 </div>
 
 ---
 
-### 📫 Contato
+## Projetos em destaque
 
-<a href="https://www.linkedin.com/in/brnocandido/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:brunocandido16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Onde Passa FC** | Aplicação web para acompanhar jogos, transmissões, tabela, estatísticas e simulações do futebol brasileiro. | React, TypeScript, Vite, Tailwind, Supabase |
+| **Auto-NFSe** | Motor RPA para emissão automática de notas fiscais eletrônicas em lote, com controle e histórico local. | Python, Playwright, SQLite |
+| **Unificador de Dados Contábeis** | Sistema para padronização e consolidação de extratos bancários em múltiplos formatos. | Python, Pandas |
+| **Central-CISS** | Portal interno com foco em refatoração de interface, fluxos operacionais e integração com APIs. | Python, Frontend, APIs |
+| **Taiga OS** | App desktop pessoal para organização de tarefas, hábitos, estudos e foco diário. | Python, UI Components |
+| **AI Audit Agent** | Agente de IA voltado para auditoria, conciliação e análise de dados contábeis/fiscais. | IA, Dados, Automação |
+
+---
+
+## O que estou construindo
+
+Atualmente estou focado em desenvolver projetos que resolvem problemas reais de operação, produtividade e análise de dados.
+
+Meu objetivo é evoluir como desenvolvedor backend e arquiteto de automações, criando soluções úteis, escaláveis e com impacto prático para empresas e usuários.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="mailto:brunocandido16@icloud.com">
+    <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/brnocandido/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
