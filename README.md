@@ -32,7 +32,7 @@ Sou **Bruno Candido**, estudante de **Análise e Desenvolvimento de Sistemas** e
 Atuo com desenvolvimento de soluções para **automação de processos**, **inteligência artificial aplicada**, **integração de sistemas**, **RPA**, **processamento de dados** e criação de ferramentas internas para melhorar rotinas operacionais.
 
 <br />
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydDN5MzkzcDJtZmk0ZXhseHF6OGh5ODBsdGszcW5taHNtd3hhZmFmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Developer coding" width="100%" />
+<img src="https://www.elitetechnocrats.com/images/software_devlopment.gif" alt="Developer coding" width="100%" />
 
 </td>
 <td width="42%" valign="top">
