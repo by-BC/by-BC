@@ -31,7 +31,6 @@ Sou **Bruno Candido**, estudante de **Análise e Desenvolvimento de Sistemas** e
 
 Atuo com desenvolvimento de soluções para **automação de processos**, **inteligência artificial aplicada**, **integração de sistemas**, **RPA**, **processamento de dados** e criação de ferramentas internas para melhorar rotinas operacionais.
 
-Tenho interesse em construir sistemas úteis, objetivos e escaláveis, conectando tecnologia com necessidades reais de negócio.
 <br />
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Developer coding" width="100%" />
 
