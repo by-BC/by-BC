@@ -122,13 +122,13 @@ Plataforma web para acompanhar jogos, transmissões, tabelas, estatísticas e si
 </td>
 <td width="50%">
 
-### 🧠 IA-First
-Repositório voltado para cultura de IA, automações e uso estratégico de inteligência artificial em processos internos.
+### 🧠 Fast-MCP
+Servidor MCP (Model Context Protocol) em Python, construído com FastMCP, que expõe ferramentas para consultar repositórios do GitHub.
 
-**Stack:** `HTML` `IA` `Documentação` `Processos`
+**Stack:** `IA` `Documentação` `Processos`
 
-<a href="https://github.com/by-BC/IA-First">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=IA-First&theme=github_dark&hide_border=true" />
+<a href="https://github.com/by-BC/fast-mcp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=fast-mcp&theme=github_dark&hide_border=true" />
 </a>
 
 </td>
