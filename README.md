@@ -156,12 +156,7 @@ class BrunoCandido:
 ## Métricas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=by-BC&theme=github_dark" alt="Profile Details" width="96%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=by-BC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=by-BC&theme=github_dark&utcOffset=-3" alt="Commits por horário" width="48%" />
 </p>
 
 <p align="center">
