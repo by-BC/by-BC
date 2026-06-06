@@ -23,11 +23,18 @@
 
 ## Sobre mim
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
 Sou **Bruno Candido**, estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **TI na Analisegroup**.
 
 Atuo com desenvolvimento de soluções para **automação de processos**, **inteligência artificial aplicada**, **integração de sistemas**, **RPA**, **processamento de dados** e criação de ferramentas internas para melhorar rotinas operacionais.
 
 Tenho interesse em construir sistemas úteis, objetivos e escaláveis, conectando tecnologia com necessidades reais de negócio.
+
+</td>
+<td width="42%" valign="top" align="center">
 
 ```python
 class BrunoCandido:
@@ -55,6 +62,10 @@ class BrunoCandido:
     def goal(self):
         return "Criar soluções simples para operações complexas."
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
