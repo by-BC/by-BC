@@ -1,143 +1,110 @@
-<div align="center">
-
 # Bruno Candido
 
-### Backend Developer • AI Automation • Systems Builder
+### Analista de TI • Automação • IA aplicada a operações
 
-Building useful software for real-world operations.
+Construindo soluções simples para operações complexas.
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+Automation+%7C+AI;Backend+Engineering;Building+systems+that+solve+real+problems"/>
-
-<br><br>
-
-<a href="https://github.com/by-BC">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/brnocandido">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-
-<a href="mailto:brunocandido16@icloud.com">
-  <img src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-by--BC-181717?style=flat-square&logo=github)](https://github.com/by-BC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Candido-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brnocandido/)
 
 ---
 
-# About Me
+## Sobre mim
+
+Atuo no setor de TI da **Analisegroup**, desenvolvendo soluções voltadas para automação de processos, inteligência artificial aplicada, integração de sistemas e melhoria de operações internas.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse em desenvolvimento backend, automações, dados, cloud, segurança da informação e criação de ferramentas que resolvem problemas reais do dia a dia.
+
+Minha trajetória une visão operacional, processos internos e tecnologia. Gosto de transformar tarefas repetitivas, fluxos manuais e problemas de negócio em sistemas mais simples, úteis e escaláveis.
 
 ```python
 class BrunoCandido:
-
     def __init__(self):
-
-        self.role = "Backend Developer"
-
+        self.role = "Analista de TI"
+        self.company = "Analisegroup"
+        self.location = "Arapiraca - AL"
         self.focus = [
             "Python",
-            "Automation",
-            "Artificial Intelligence",
-            "Backend Systems",
+            "Automação de Processos",
+            "Inteligência Artificial",
+            "Backend",
             "APIs",
+            "RPA",
             "Data Processing"
         ]
-
         self.learning = [
-            "Software Architecture",
+            "Arquitetura de Software",
             "System Design",
-            "Scalable Applications"
+            "Cloud",
+            "Segurança da Informação"
         ]
 
-        self.mindset = (
-            "Turning operational problems into software."
-        )
-
-
-me = BrunoCandido()
+    def mindset(self):
+        return "Transformar problemas operacionais em soluções práticas."
 ```
 
 ---
 
-# Tech Stack
+## Stack
 
-<div align="center">
+**Backend e linguagens**  
+`Python` `TypeScript` `JavaScript` `FastAPI` `REST APIs`
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,tailwind,sqlite,git,vscode"/>
+**Automação e dados**  
+`Playwright` `Pandas` `RPA` `Web Scraping` `Processamento de Dados`
 
-</div>
+**Frontend e interfaces**  
+`React` `Vite` `Tailwind CSS` `Streamlit`
 
-<br>
+**Banco de dados e cloud**  
+`SQLite` `PostgreSQL` `Supabase`
 
-<div align="center">
+**Ferramentas**  
+`Git` `GitHub` `Docker` `VS Code` `Antigravity`
 
-| Backend | Frontend | Automation | Database |
-|---|---|---|---|
-| FastAPI | React | Playwright | SQLite |
-| Node.js | Vite | Pandas | Supabase |
-| REST APIs | TailwindCSS | RPA | SQL |
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **central-CISS** | Portal interno para automações operacionais, emissão de notas, integração com sistemas clínicos e processamento de dados financeiros. | `Python`, `Streamlit`, `Playwright`, `PostgreSQL` |
+| **Onde Passa FC** | Plataforma para acompanhar jogos, transmissões, tabela, estatísticas e simulações do futebol brasileiro. | `React`, `TypeScript`, `Vite`, `Tailwind`, `Supabase` |
+| **Auto-NFSe** | Automação para emissão em lote de notas fiscais eletrônicas com controle de histórico e execução via navegador. | `Python`, `Playwright`, `SQLite` |
+| **Unificador de Dados Contábeis** | Sistema para padronização, consolidação e análise de extratos bancários em múltiplos formatos. | `Python`, `Pandas` |
+| **AI Audit Agent** | Agente de IA voltado para auditoria, conciliação e análise de dados contábeis/fiscais. | `Python`, `IA`, `Data Analysis` |
+| **Taiga OS** | Sistema pessoal de organização, produtividade, tarefas, hábitos e foco. | `Python`, `UI`, `Productivity` |
+
+---
+
+## Atualmente desenvolvendo
+
+- Automações internas com Python
+- Ferramentas de IA aplicadas a processos operacionais
+- Sistemas backend e APIs
+- Dashboards e portais internos
+- Pipelines de dados e conciliações
+- Projetos pessoais com foco em produtividade, futebol e tecnologia
+
+---
+
+## GitHub Analytics
+
+<div align="left">
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-# Featured Projects
+## Contato
 
-<div align="center">
-
-| Project | Description |
-|---|---|
-| ⚽ Onde Passa FC | Football platform with live games, statistics and simulations |
-| 🤖 Auto-NFSe | Invoice automation system using browser automation |
-| 🧠 AI Audit Agent | AI-powered auditing and accounting assistant |
-| 📊 Unificador de Dados | Financial and accounting data processing |
-| 🖥️ Taiga OS | Personal productivity and organization system |
-
-</div>
+- GitHub: [github.com/by-BC](https://github.com/by-BC)
+- LinkedIn: [linkedin.com/in/brnocandido](https://www.linkedin.com/in/brnocandido/)
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=by-BC&theme=github_dark"/>
-
-</div>
-
----
-
-# Currently Building
-
-<div align="center">
-
-```txt
-AI Automations
-Backend Systems
-Internal Tools
-Data Pipelines
-Operational Solutions
-```
-
-</div>
-
----
-
-<div align="center">
-
-### "Build things that make operations smarter."
-
-</div>
+> Build useful software for real-world operations.
