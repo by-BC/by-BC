@@ -88,11 +88,37 @@ class BrunoCandido:
 
 </div>
 
----
-
 ## Projetos em destaque
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fast-MCP</h3>
+      <p>Servidor MCP em Python para expor ferramentas de consulta, automação e integração com repositórios do GitHub.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/FastMCP-21262D?style=flat-square&logo=python&logoColor=58A6FF" />
+        <img src="https://img.shields.io/badge/MCP-21262D?style=flat-square&logo=protocols.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" />
+      </p>
+      <a href="https://github.com/by-BC/fast-mcp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=fast-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Fast-MCP" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Central Analisegroup</h3>
+      <p>Portal interno para centralizar ferramentas, fluxos, automações e rotinas operacionais da Analisegroup.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-21262D?style=flat-square&logo=robotframework&logoColor=white" />
+        <img src="https://img.shields.io/badge/Processos-21262D?style=flat-square&logo=databricks&logoColor=58A6FF" />
+        <img src="https://img.shields.io/badge/Analisegroup-21262D?style=flat-square&logo=googleanalytics&logoColor=58A6FF" />
+      </p>
+      <a href="https://github.com/by-BC/central-analisegroup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=central-analisegroup&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Central Analisegroup" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Onde Passa FC</h3>
@@ -109,49 +135,23 @@ class BrunoCandido:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>central-CISS</h3>
-      <p>Portal interno para automações operacionais, emissão de notas, integração com sistemas e processamento de dados.</p>
+      <h3>Extrator eSocial</h3>
+      <p>Ferramenta para extração, organização e apoio à análise de dados relacionados ao eSocial e rotinas trabalhistas.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Streamlit-21262D?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-        <img src="https://img.shields.io/badge/Playwright-21262D?style=flat-square&logo=playwright&logoColor=45BA4B" />
-        <img src="https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/Dados-21262D?style=flat-square&logo=pandas&logoColor=150458" />
+        <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-21262D?style=flat-square&logo=robotframework&logoColor=white" />
+        <img src="https://img.shields.io/badge/eSocial-21262D?style=flat-square&logo=files&logoColor=58A6FF" />
       </p>
-      <a href="https://github.com/by-BC/central-CISS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=central-CISS&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="central-CISS" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Unificador de Dados Contábeis</h3>
-      <p>Sistema em Python para padronização, consolidação e análise de extratos bancários em múltiplos formatos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Pandas-21262D?style=flat-square&logo=pandas&logoColor=150458" />
-        <img src="https://img.shields.io/badge/Data-21262D?style=flat-square&logo=databricks&logoColor=FF3621" />
-      </p>
-      <a href="https://github.com/by-BC/unificador-dados-contabeis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=unificador-dados-contabeis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Unificador de Dados Contábeis" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Auto-NFSe</h3>
-      <p>Automação para emissão e controle de notas fiscais eletrônicas usando navegador automatizado.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Playwright-21262D?style=flat-square&logo=playwright&logoColor=45BA4B" />
-        <img src="https://img.shields.io/badge/SQLite-21262D?style=flat-square&logo=sqlite&logoColor=003B57" />
-        <img src="https://img.shields.io/badge/RPA-21262D?style=flat-square&logo=robotframework&logoColor=white" />
-      </p>
-      <a href="https://github.com/by-BC/auto-nfse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=auto-nfse&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Auto-NFSe" />
+      <a href="https://github.com/by-BC/extrator-esocial">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=extrator-esocial&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Extrator eSocial" />
       </a>
     </td>
   </tr>
 </table>
 
 ---
+
 
 ## Métricas do GitHub
 
@@ -161,14 +161,6 @@ class BrunoCandido:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=by-BC&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true" alt="Contribution Graph" width="96%" />
-</p>
-
----
-
-## Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=by-BC&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
