@@ -23,10 +23,6 @@
 
 ## Sobre mim
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
 Sou **Bruno Candido**, estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **TI na Analisegroup**.
 
 Atuo com desenvolvimento de soluções para **automação de processos**, **inteligência artificial aplicada**, **integração de sistemas**, **RPA**, **processamento de dados** e criação de ferramentas internas para melhorar rotinas operacionais.
@@ -59,23 +55,6 @@ class BrunoCandido:
     def goal(self):
         return "Criar soluções simples para operações complexas."
 ```
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Developer coding" width="100%" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=by-BC&theme=github_dark" alt="GitHub Stats" width="100%" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=by-BC&theme=github_dark" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
