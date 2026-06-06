@@ -1,4 +1,4 @@
-<!-- README.md - Perfil GitHub by-BC -->
+<!-- README.md - Perfil GitHub by-BC | versão corrigida -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,55:1F6FEB,100:0D1117&text=Bruno%20Candido&fontColor=F0F6FC&fontSize=42&fontAlignY=38&desc=TI%20%7C%20Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20aplicada%20a%20processos&descAlignY=60&descSize=16" alt="Banner Bruno Candido" />
@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="58%" valign="top">
 
 Sou **Bruno Candido**, estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **TI na Analisegroup**.
 
@@ -61,13 +61,17 @@ class BrunoCandido:
 ```
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="100%" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Developer coding" width="100%" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=by-BC&theme=github_dark" alt="GitHub Stats" width="100%" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=by-BC&theme=github_dark" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
