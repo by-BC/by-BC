@@ -102,7 +102,6 @@ class BrunoCandido:
         <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" />
       </p>
       <a href="https://github.com/by-BC/fast-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=fast-mcp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Fast-MCP" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -115,7 +114,6 @@ class BrunoCandido:
         <img src="https://img.shields.io/badge/Analisegroup-21262D?style=flat-square&logo=googleanalytics&logoColor=58A6FF" />
       </p>
       <a href="https://github.com/by-BC/central-analisegroup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=central-analisegroup&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Central Analisegroup" />
       </a>
     </td>
   </tr>
@@ -131,7 +129,6 @@ class BrunoCandido:
         <img src="https://img.shields.io/badge/Supabase-21262D?style=flat-square&logo=supabase&logoColor=3ECF8E" />
       </p>
       <a href="https://github.com/by-BC/onde-passa-FC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=onde-passa-FC&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Onde Passa FC" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -144,7 +141,6 @@ class BrunoCandido:
         <img src="https://img.shields.io/badge/eSocial-21262D?style=flat-square&logo=files&logoColor=58A6FF" />
       </p>
       <a href="https://github.com/by-BC/extrator-esocial">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=extrator-esocial&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Extrator eSocial" />
       </a>
     </td>
   </tr>
