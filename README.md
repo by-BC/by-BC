@@ -76,17 +76,16 @@ class BrunoCandido:
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,tailwind,fastapi,postgres,supabase,sqlite,docker,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-21262D?style=for-the-badge&logo=google&logoColor=58A6FF" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/ChatGPT-21262D?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-21262D?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-21262D?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/AI%20Tools-1F6FEB?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI Tools" />
+</p>
 
-| Área | Tecnologias e práticas |
-| --- | --- |
-| **Backend e automações** | `Python` · `FastAPI` · `APIs REST` · `RPA` · `Playwright` |
-| **Dados e análise** | `Pandas` · `ETL` · `Tratamento de dados` · `Auditoria` |
-| **Frontend e interfaces** | `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Streamlit` |
-| **Banco e cloud** | `PostgreSQL` · `Supabase` · `SQLite` · `Docker` |
-| **Ferramentas** | `Git` · `GitHub` · `VS Code` · `Antigravity` |
+---
 
-</div>
 
 ## Projetos em destaque
 
